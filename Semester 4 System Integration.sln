@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lek2_Opgave2", "Semester 4 System Integration\Lek2_Opgave2.csproj", "{AFA6213A-6914-499B-95BC-5FD6216334CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lek2_Opgave3", "Lek2_Opgave3\Lek2_Opgave3.csproj", "{33233D5E-793D-4D22-A8A2-1BADD3D1268C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA6213A-6914-499B-95BC-5FD6216334CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA6213A-6914-499B-95BC-5FD6216334CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA6213A-6914-499B-95BC-5FD6216334CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA6213A-6914-499B-95BC-5FD6216334CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33233D5E-793D-4D22-A8A2-1BADD3D1268C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33233D5E-793D-4D22-A8A2-1BADD3D1268C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33233D5E-793D-4D22-A8A2-1BADD3D1268C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33233D5E-793D-4D22-A8A2-1BADD3D1268C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D43B483-A6E3-4051-9FD6-097C5D5466B8}
+	EndGlobalSection
+EndGlobal
